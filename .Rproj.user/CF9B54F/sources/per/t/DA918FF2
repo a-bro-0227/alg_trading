@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619145516261.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "880199828",
+    "id" : "DA918FF2",
+    "lastKnownWriteTime" : 1620143498,
+    "last_content_update" : 1620143498269,
+    "path" : "~/GitHub/alg_trading/equal_weight.py",
+    "project_path" : "equal_weight.py",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "python"
+}
